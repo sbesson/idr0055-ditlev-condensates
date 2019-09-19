@@ -1,8 +1,6 @@
 ---
 continue: true
 exclude: "clientpath"
-parallel_upload: "5"
-parallel_fileset: "5"
 path: "idr0055-experimentA-filePaths.tsv"
 skip: "checksum"
 transfer: "ln_s"
