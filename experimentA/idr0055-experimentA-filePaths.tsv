@@ -5,13 +5,12 @@ Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_grb2_basic	/
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_nwasp	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/contraction_nwasp
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_nwasp_basic	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/contraction_nwasp_basic
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_nwasp_neutral	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/contraction_nwasp_neutral
-Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_sos1	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/contraction_sos1
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_sos1	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/pLAT ... Sos1 Contraction 8.tif
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_sos1	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/contraction_sos1
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_wasp	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/contraction_wasp
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:full_length_nck_binding_actin	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/full_length_nck_binding_actin
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:full_length_wipnwasp_binding_actin	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/full_length_wipnwasp_binding_actin
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:grb2_basic_binding_actin	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/grb2_basic_binding_actin
-Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/in_vivo_actin_polarization
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170703 100x15x15 100% laser 10nM 2h incubation 01_MMStack.tif
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170703 100x15x15 100% laser 10nM 2h incubation 02_MMStack.tif
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170703 100x15x15 100% laser 10nM 2h incubation 03_MMStack.tif
