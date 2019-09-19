@@ -6,11 +6,22 @@ Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_nwasp	/uod/i
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_nwasp_basic	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/contraction_nwasp_basic
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_nwasp_neutral	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/contraction_nwasp_neutral
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_sos1	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/contraction_sos1
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_sos1	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/pLAT ... Sos1 Contraction 8.tif
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:contraction_wasp	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/contraction_wasp
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:full_length_nck_binding_actin	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/full_length_nck_binding_actin
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:full_length_wipnwasp_binding_actin	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/full_length_wipnwasp_binding_actin
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:grb2_basic_binding_actin	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/grb2_basic_binding_actin
-Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/in_vivo_actin_polarization
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/in_vivo_actin_polarization
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170703 100x15x15 100% laser 10nM 2h incubation 01_MMStack.tif
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170703 100x15x15 100% laser 10nM 2h incubation 02_MMStack.tif
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170703 100x15x15 100% laser 10nM 2h incubation 03_MMStack.tif
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170703 100x15x15 100% laser 10nM 2h incubation 04_MMStack.tif
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170703 100x15x15 100% laser 10nM 2h incubation 05_MMStack.tif
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170703 100x15x15 100% laser 10nM 2h incubation 06_MMStack.tif
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170706 100x15x15 100% laser 10nM 2h incubation 100ms exp 01_MMStack.tif
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170706 100x15x15 100% laser 10nM 2h incubation 100ms exp 02_MMStack.tif
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170706 100x15x15 Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/100% laser 10nM 2h incubation 100ms exp 03_MMStack.tif
+Experiment:name:idr0055-ditlev-condensates/Dataset:name:in_vivo_actin_polarization	/uod/idr/filesets/idr0055-ditlev-condensates/20190911-ftp/170706 100x15x15 100% laser 10nM 2h incubation 100ms exp 05_MMStack.tif
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:jurkat_cells_expressing_grb2_mcherry_basic_lat_mcitrine_no_treatment	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/jurkat_cells_expressing_grb2_mcherry_basic_lat_mcitrine_no_treatment
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:jurkat_cells_expressing_lat_mcherry_nck_sfgfp_lifeact_bfp_dmso_treatment	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/jurkat_cells_expressing_lat_mcherry_nck_sfgfp_lifeact_bfp_dmso_treatment
 Experiment:name:idr0055-ditlev-condensates/Dataset:name:jurkat_cells_expressing_lat_mcherry_nck_sfgfp_lifeact_bfp_no_treatment	/uod/idr/filesets/idr0055-ditlev-condensates/S-BIAD6/jurkat_cells_expressing_lat_mcherry_nck_sfgfp_lifeact_bfp_no_treatment
